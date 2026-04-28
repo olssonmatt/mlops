@@ -1,4 +1,5 @@
-# Credit-Card-Fraud-Detection
+# MLOps
+ - An MLOps system for deploying ML models—initially for credit card fraud detection, with plans to add custom models later.
  - Credit card fraud detection model for the Kaggle dataset (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
  - A quick project aimed be a proof of concept as well as an effort to bolster the explainations models
 
